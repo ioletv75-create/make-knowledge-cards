@@ -1,6 +1,7 @@
 ---
 name: make-knowledge-cards
 description: Convert a pasted article or a local Markdown/TXT file into 5-8 knowledge cards. Each card carries a title, the core knowledge point, a plain-language explanation, and either a concrete example or a self-test question. Use when the user asks to make knowledge cards, study cards, flashcards, or asks to distill an article into key points for review or memorization. Triggers on pasted article text or a local .md/.txt path. Extraction only - never invents facts not present in the source.
+license: MIT
 ---
 
 # Make Knowledge Cards
