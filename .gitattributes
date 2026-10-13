@@ -1,0 +1,7 @@
+# Keep line endings stable across platforms. Skill files are plain text and must
+# keep LF so the YAML frontmatter parses the same everywhere.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.pdf binary
